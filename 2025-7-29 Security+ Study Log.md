@@ -1,4 +1,4 @@
-# Jason Dion Security+ Study Log
+# Security+ Study Log
 
 **Date:** {{2025-7-29}}
 **Section/Module:** 6
