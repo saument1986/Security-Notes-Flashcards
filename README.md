@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains flashcards and notes to help individuals pursuing the CompTIA Security+ Certification. The content is organized from Jason Dion's Security+ course on Udemy.
-###This is in no way a replacement for tha actual course just an aid to help save time on some note taking
+### This is not a replacement for the actual course just an aid to help save time on note taking 
 
 ## Features
 The flashcards and notes are formatted for use with Obsidian, a knowledge management tool, including the Spaced Repetition Plug-in forObsidian to create flashcards. The repository will be updated as the course progresses.
